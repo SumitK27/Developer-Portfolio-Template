@@ -1,0 +1,28 @@
+/* SKILLS */
+
+.skills-container {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    font-size: 4rem;
+}
+
+.skill {
+    font-size: 3rem;
+    color: gray;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    transition: all 0.3s;
+}
+
+.skill:hover {
+    transform: scale(1.1);
+    color: #02aab0;
+    background-image: linear-gradient(92deg, #02aab0, #00cdac);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    animation: gradient-cycle var(--hover-duration) infinite linear;
+}
