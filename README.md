@@ -12,13 +12,16 @@ A fully responsive Portfolio template for Developers.
 
 ## **Demo**
 
-Desktop
+### **Desktop**
+
 ![Desktop](./images/desktop.png)
 
-Tablet
+### **Tablet**
+
 ![Tablet](./images/tablet.png)
 
-Mobile
+### **Mobile**
+
 ![Mobile](./images/mobile.png)
 
 Video Demo at [Demo](https://www.loom.com/share/b56df10d0b8044ab917e9ba536869702)
